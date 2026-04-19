@@ -1,1 +1,11 @@
 hello, this text file will now be pushed to my web repository
+
+----
+cat - view
+touch - create files
+nvim
+git status
+git add proof.txt
+git status - check
+git commit- git branch commits 
+git  push origin main
