@@ -1,0 +1,48 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    text-decoration: none   ;
+}
+
+#maindiv {
+    height: 60px;
+    background-color: black;
+}
+
+button{
+    background-color: orange;
+    color: white;
+}
+
+#amazon {
+    color: orange;
+    font-size: 25px;
+}
+
+a {
+    margin-right: 200px;
+}
+
+.contentdiv {
+    height: 100px;
+    width: 100px;
+    color: blueviolet;
+    background-color: aqua;
+    border: 3px solid rgb(19, 6, 6);
+    border-radius: 10px;
+    padding-left: 2px;
+    display: inline-block;
+    margin: 5px 0px 0px 5px;
+}
+
+footer {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    height: 60px;
+    text-align: center;
+}
+
+#content {
+    height: 493px;
+}

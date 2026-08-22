@@ -1,0 +1,25 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    text-decoration: none   ;
+}
+
+#maindiv {
+    height: 60px;
+    background-color: black;
+}
+
+button{
+    background-color: orange;
+    color: white;
+}
+
+#amazon {
+    color: orange;
+    font-size: 25px;
+}
+
+a {
+    margin-right: 200px;
+}
